@@ -36,17 +36,4 @@ My current projects focus on:
 
 You can find publications on the [publications page](/publications/). The page is rendered from BibTeX in `_bibliography/papers.bib`.
 
-This site supports LaTeX math directly in Markdown. For example:
-
-<!-- Deployment note: this page intentionally includes MathJax examples and is served from the user-page root. -->
-
-$$
-\partial_t u - \Delta u = f,\qquad u(0,x)=u_0(x),
-$$
-
-and an energy estimate:
-
-$$
-\frac{d}{dt}\int_{\Omega}\frac{|u|^2}{2}\,dx + \int_{\Omega}|\nabla u|^2\,dx
-= \int_{\Omega}fu\,dx.
-$$
+Somethin Beautiful
