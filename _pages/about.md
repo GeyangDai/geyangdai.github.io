@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Mathematics · Analysis · PDE · Probability
+subtitle: PhD in Mathematics · Differential Geometry· Index Theory · Mathematical Physics
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Mathematics</p>
-    <p>University / Institute Name</p>
-    <p>Email: your_email@domain.edu</p>
+    <p>University / National University of Singapore</p>
+    <p>Email: geyang.dai@u.nus.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,13 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher in mathematics, working on analysis, PDEs, and probability-inspired methods. My interests include regularity theory, geometric flows, and stochastic techniques in nonlinear equations.
-
+I am a PhD researcher in mathematics, working on Differential Geometry and Mathematical Physics.
 My current projects focus on:
 
-- nonlinear diffusion and entropy methods;
-- variational formulations for PDE models;
-- asymptotic behavior and stability in dissipative systems.
+- Loop space and double loop space geometry;
+- Index Theorems and Elliptic Cohomology;
+- Quantization and Chern-Simons theory.
 
 You can find publications on the [publications page](/publications/). The page is rendered from BibTeX in `_bibliography/papers.bib`.
 
