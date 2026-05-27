@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Department of Mathematics</p>
     <p>National University of Singapore</p>
-    <p>geyang.dai@u.nus.edu</p>
+    <p>Email: geyang.dai@u.nus.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
