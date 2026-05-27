@@ -39,6 +39,8 @@ You can find publications on the [publications page](/publications/). The page i
 
 This site supports LaTeX math directly in Markdown. For example:
 
+<!-- Deployment note: this page intentionally includes MathJax examples. -->
+
 $$
 \partial_t u - \Delta u = f,\qquad u(0,x)=u_0(x),
 $$
