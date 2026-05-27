@@ -3,6 +3,6 @@ contact_links:
   - name: ❓ Ask a Question
     url: https://github.com/alshedivat/al-folio/discussions/categories/q-a
     about: Ask and answer al-folio related questions.
-  - name: 📖 Read the documentation
-    url: https://github.com/alshedivat/al-folio/blob/main/README.md
-    about: Please consult the documentation before opening any issues!
+  - name: 🚀 Quick Start (set up homepage)
+    url: https://github.com/alshedivat/al-folio/blob/main/docs/QUICKSTART.md
+    about: New to al-folio? Start here to set up your homepage in ~5 minutes.
