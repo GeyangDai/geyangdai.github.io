@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Mathematics</p>
-    <p>University / National University of Singapore</p>
-    <p>Email: geyang.dai@u.nus.edu</p>
+    <p>National University of Singapore</p>
+    <p>geyang.dai@u.nus.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,6 +34,4 @@ My current projects focus on:
 - Index Theorems and Elliptic Cohomology;
 - Quantization and Chern-Simons theory.
 
-You can find publications on the [publications page](/publications/). The page is rendered from BibTeX in `_bibliography/papers.bib`.
 
-Somethin Beautiful
