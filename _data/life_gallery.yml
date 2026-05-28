@@ -1,6 +1,13 @@
 - image: /assets/img/life/portrait.jpg
   title: 个人影像
   date: 2026
-  location: ""
-  caption: 这里可以写这张照片背后的故事，也可以替换成旅行、摄影或日常生活的片段。
+  location: "广州"
+  caption: 
   alt: Geyang Dai portrait
+
+- image: /assets/img/life/2026-05-28-15-40-49.jpg
+  title: 个人影像
+  date: 2026
+  location: "新疆可可托海"
+  caption: 太美丽啦
+  alt: 
