@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Department of Mathematics</p>
     <p>National University of Singapore</p>
-    <p>Email: geyang.dai@u.nus.edu</p>
+    <p>Email: <a href="mailto:geyang.dai@u.nus.edu">geyang.dai@u.nus.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher in mathematics, working on Differential Geometry and Mathematical Physics.
+I work on Differential Geometry and Mathematical Physics.
 My current projects focus on:
 
 - Loop space and double loop space geometry;
