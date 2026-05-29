@@ -43,25 +43,29 @@ My current projects focus on:
 <div class="formula-item" markdown="1">
 <span class="formula-label">Sine product formula</span>
 
-$$
+<div class="formula-equation">
+\[
 \frac{\sin(\pi z)}{\pi z}
 =
 \prod_{n=1}^{\infty}
 \left(1-\frac{z^2}{n^2}\right).
-$$
+\]
+</div>
 </div>
 
 <div class="formula-item" markdown="1">
 <span class="formula-label">Two-dimensional version</span>
 
-$$
+<div class="formula-equation">
+\[
 q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
 =
 \left(e^{\pi i z}-e^{-\pi i z}\right)
 \prod_{m=1}^{\infty}
 \left(1-q^m e^{2\pi i z}\right)
 \left(1-q^m e^{-2\pi i z}\right).
-$$
+\]
+</div>
 </div>
 
 </div>
@@ -119,6 +123,12 @@ $$
 
 .formula-item + .formula-item {
   margin-top: 1rem;
+}
+
+.formula-equation {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.2rem 0;
 }
 
 .formula-label {
