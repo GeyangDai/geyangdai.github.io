@@ -38,13 +38,10 @@ My current projects focus on:
 
 <div class="formula-showcase" markdown="1">
 
-### Product formulas
-
 <div class="formula-item" markdown="1">
-<span class="formula-label">Sine product formula</span>
-
 <div class="formula-equation">
 \[
+\large
 \frac{\sin(\pi z)}{\pi z}
 =
 \prod_{n=1}^{\infty}
@@ -54,10 +51,9 @@ My current projects focus on:
 </div>
 
 <div class="formula-item" markdown="1">
-<span class="formula-label">Two-dimensional version</span>
-
 <div class="formula-equation">
 \[
+\large
 q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
 =
 \left(e^{\pi i z}-e^{-\pi i z}\right)
@@ -99,46 +95,24 @@ q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
 }
 
 .formula-showcase {
-  margin: 1.35rem 0 1.75rem;
-  padding: 1.15rem 1.25rem;
-  border: 1px solid rgba(127, 127, 127, 0.20);
-  border-radius: 20px;
-  background:
-    linear-gradient(135deg, rgba(245, 238, 220, 0.72), rgba(255, 255, 255, 0.20)),
-    var(--global-card-bg-color, #fff);
-  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);
-}
-
-.formula-showcase h3 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font-size: 1.15rem;
+  margin: 1.1rem 0 1.5rem;
+  padding: 0;
+  background: transparent;
 }
 
 .formula-item {
-  padding: 0.95rem 1rem;
-  border-radius: 16px;
-  background: rgba(255, 255, 255, 0.46);
+  padding: 0.15rem 0;
+  background: transparent;
 }
 
 .formula-item + .formula-item {
-  margin-top: 1rem;
+  margin-top: 0.85rem;
 }
 
 .formula-equation {
   overflow-x: auto;
   overflow-y: hidden;
-  padding: 0.2rem 0;
-}
-
-.formula-label {
-  display: inline-block;
-  margin-bottom: 0.6rem;
-  color: var(--global-text-color-light, #666);
-  font-size: 0.86rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  padding: 0.25rem 0;
 }
 
 .formula-item mjx-container {
@@ -146,6 +120,7 @@ q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
   overflow-y: hidden;
   max-width: 100%;
   padding-bottom: 0.2rem;
+  font-size: 118% !important;
 }
 
 @media (max-width: 575px) {
@@ -161,7 +136,7 @@ q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
   }
 
   .formula-showcase {
-    padding: 1rem;
+    margin-top: 1rem;
   }
 }
 </style>
