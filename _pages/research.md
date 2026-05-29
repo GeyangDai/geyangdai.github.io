@@ -7,21 +7,18 @@ nav: true
 nav_order: 1
 ---
 
-My research lies at the interface of differential geometry, index theory, and mathematical physics.
-
+My research lies at 1d/2d QFT and index theory.
 Current directions include:
 
-- loop space and double loop space geometry;
 - index theorems and elliptic cohomology;
-- quantization and Chern-Simons theory.
+- geometric and deformation quantization;
+- conformal field theory and higher structures.
 
-I am especially interested in geometric structures that connect analysis, topology, and quantum field theoretic constructions.
+I am especially interested in topics about Witten genus and Stolz conjecture.
 
 ## Selected Themes
 
-### Differential geometry and loop spaces
-
-I study geometric structures arising from loop spaces and related infinite-dimensional constructions.
+### Elliptic Chern Character
 
 ### Index theory and elliptic cohomology
 
