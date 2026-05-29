@@ -93,3 +93,5 @@ I am interested in index-theoretic methods and their connections with elliptic g
 ### Mathematical physics
 
 My work is motivated by questions from quantization, Chern-Simons theory, and field-theoretic approaches to geometry.
+
+<!-- deploy refresh: formulas on research page -->
