@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: research interests and current projects
 nav: true
 nav_order: 1
 ---
