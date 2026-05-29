@@ -13,8 +13,5 @@ To be updated.
 
 ## Past Talks
 
-To be updated.
+- **Elliptic Chern Characters and Elliptic Atiyah-Witten Formula**, Mathematics Colloquium, Rutgers University-Newark, February 18, 2026. [Event page](https://sites.rutgers.edu/mathematics-colloquium/)
 
-You can list talks in this format:
-
-- **Title**, Seminar or conference, Institution, Month Day, Year.
