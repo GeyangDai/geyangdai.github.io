@@ -13,5 +13,6 @@ To be updated.
 
 ## Past Talks
 
-- **Elliptic Chern Characters and Elliptic Atiyah-Witten Formula**, Mathematics Colloquium, Rutgers University-Newark, February 18, 2026. [Event page](https://sites.rutgers.edu/mathematics-colloquium/)
+- **Elliptic Chern Characters and Elliptic Atiyah-Witten Formula**, Lie Group/Quantum Mathematics Seminar, Rutgers University, February 20, 2026. [Event page](https://sites.math.rutgers.edu/~yzhuang/rci/math/lie-quantum.html)
 
+- **Elliptic Chern Characters and Elliptic Atiyah-Witten Formula**, Mathematics Colloquium, Rutgers University-Newark, February 18, 2026. [Event page](https://sites.rutgers.edu/mathematics-colloquium/)
