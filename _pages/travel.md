@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Upcoming Travel
 
-To be updated.
+- **Elliptic objects, von Neumann algebras, and Functorial Field Theory**
 
 ## Past Travel
 
