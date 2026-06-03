@@ -38,9 +38,8 @@ I am interested in:
 
 ## Short CV
 
-- **2021-present** PhD student in Mathematics, Department of Mathematics, National University of Singapore.
-- Earlier mathematical training: to be updated.
-
+- **2022-present：** Ph.D. Candidate, in Mathematics, National University of Singapore.
+- **2018-2022：**: B.Sc. in Mathematics and Applied Mathematics, Nanjing University.
 <style>
 .post-header {
   position: relative;
