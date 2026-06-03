@@ -7,12 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-## Upcoming Travel
+## upcoming
 
-- **July 2026** Elliptic Objects, von Neumann Algebras, and Functorial Field Theory, Bernoulli Center, EPFL, Lausanne, Switzerland
-- **September 2026-January 2027** Tsinghua University, Yau Mathematical Sciences Center, Beijing, China
+- **2026/07 Elliptic objects, von Neumann algebras, and Functorial Field Theory**, Bernoulli Center, EPFL, Lausanne, Switzerland
+- **2026/09-2027/01** Tsinghua University, Yau Mathematical Sciences Center, Beijing, China
 
-## Past Travel
+## past
 
-- **January-March 2026** Rutgers University, United States
-- **April 2026** Elliptic Objects, von Neumann Algebras, and Functorial Field Theory, TianYuan Mathematics Research Center, Kunming, China
+- **2026/01-2026/03** Rutgers University, United States
+- **2026/04 Elliptic objects, von Neumann algebras, and Functorial Field Theory**, TianYuan Mathematics Research Center, Kunming, China

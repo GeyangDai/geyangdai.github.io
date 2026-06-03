@@ -30,9 +30,9 @@ latest_posts:
 I am currently a fifth-year Ph.D. student working on index theory and QFT.
 I am interested in:
 
-- Loop space geometry and the Stolz conjecture;
-- Higher geometric structures and quantization;
-- CFT and elliptic cohomology.
+- **Loop space geometry and the Stolz conjecture**;
+- **Higher geometric structures and quantization**;
+- **CFT and elliptic cohomology**.
 
 [Google Scholar](https://scholar.google.com/citations?user=1j_zvZcAAAAJ&hl=zh-CN)
 
