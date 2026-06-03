@@ -50,6 +50,10 @@ I am interested in:
   padding-right: min(32vw, 220px);
 }
 
+.post-title {
+  font-weight: 700;
+}
+
 .post-header::after {
   content: "中文签名";
   position: absolute;
