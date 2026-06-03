@@ -36,7 +36,7 @@ I am interested in:
 
 [Google Scholar](https://scholar.google.com/citations?user=1j_zvZcAAAAJ&hl=zh-CN)
 
-## Short CV
+## short CV
 
 - **2022-present** Ph.D. candidate in Mathematics, National University of Singapore.
 - **2018-2022** B.Sc. in Mathematics and Applied Mathematics, Nanjing University.
