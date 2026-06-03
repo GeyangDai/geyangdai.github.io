@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-这里会慢慢放一些研究之外的内容：旅行、阅读、摄影、随笔，或者任何值得长期保存的生活片段。
-
 ## 影像集
 
 {% assign gallery = site.data.life_gallery %}
