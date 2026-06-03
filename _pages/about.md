@@ -38,8 +38,8 @@ I am interested in:
 
 ## Short CV
 
-- **2022-present：** Ph.D. Candidate, in Mathematics, National University of Singapore.
-- **2018-2022：**: B.Sc. in Mathematics and Applied Mathematics, Nanjing University.
+- **2022-present** Ph.D. Candidate, in Mathematics, National University of Singapore.
+- **2018-2022** B.Sc. in Mathematics and Applied Mathematics, Nanjing University.
 <style>
 .post-header {
   position: relative;

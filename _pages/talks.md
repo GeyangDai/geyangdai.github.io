@@ -18,4 +18,4 @@ To be updated.
 - Mathematics Colloquium, Rutgers University-Newark, February 18, 2026. [Event page](https://sites.rutgers.edu/mathematics-colloquium/)
 
 
-- **Quantization via Feynmann path integrals**, Seminar of TQFT and the Cobordism Hypothesis, National University of Singapore, April 2023. 
+- **Quantization via Feynman path integrals**, Seminar of TQFT and the Cobordism Hypothesis, National University of Singapore, April 2023. 
