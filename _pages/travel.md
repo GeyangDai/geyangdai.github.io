@@ -2,7 +2,7 @@
 layout: page
 permalink: /travel/
 title: travel
-description: academic visits and travel
+description: 
 nav: true
 nav_order: 4
 ---
@@ -13,8 +13,5 @@ To be updated.
 
 ## Past Travel
 
-To be updated.
-
-You can list visits in this format:
-
-- **Month Day-Month Day, Year** · Institution, City, Country.
+- **1.28-3.26 2026** Rutgers University, Piscataway, United States
+- **3.29-4.4 2026** TianYuan Mathematics Research Center, Kunming, China

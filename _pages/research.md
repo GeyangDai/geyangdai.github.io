@@ -7,13 +7,8 @@ nav_order: 1
 ---
 
 My research lies at 1d/2d QFT and index theory.
-Current directions include:
-
-- index theorems and elliptic cohomology;
-- geometric and deformation quantization;
-- conformal field theory and higher structures.
-
 I am especially interested in topics about Witten genus and Stolz conjecture.
+Here are two formulas which may explain many things in index theory.
 
 <div class="formula-showcase" markdown="1">
 
@@ -86,12 +81,5 @@ q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
 
 ### Elliptic Chern Character
 
-### Index theory and elliptic cohomology
-
-I am interested in index-theoretic methods and their connections with elliptic genera and generalized cohomology theories.
-
-### Mathematical physics
-
-My work is motivated by questions from quantization, Chern-Simons theory, and field-theoretic approaches to geometry.
 
 <!-- deploy refresh: formulas on research page -->

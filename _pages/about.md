@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Mathematics · Differential Geometry· Index Theory · Mathematical Physics
+subtitle: PhD in Mathematics · Differential Geometry· Mathematical Physics
 
 profile:
   align: right
@@ -27,14 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work on Differential Geometry and Mathematical Physics.
-My current projects focus on:
+I am a fifth-year PhD student working on index theory and QFT.
+I am interested in:
 
-- Loop space and double loop space geometry;
-- Index Theorems and Elliptic Cohomology;
-- Quantization and Chern-Simons theory.
+- Loop space geometry and Stolz conjecture;
+- Higher geometric structures and quantization;
+- CFT and elliptic cohomology.
 
 [Google Scholar](https://scholar.google.com/citations?user=1j_zvZcAAAAJ&hl=zh-CN)
+
+## Short CV
+
+- **2021-present** PhD student in Mathematics, Department of Mathematics, National University of Singapore.
+- Earlier mathematical training: to be updated.
 
 <style>
 .post-header {
