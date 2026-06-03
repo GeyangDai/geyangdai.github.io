@@ -76,10 +76,3 @@ q^{-\frac{1}{12}}\frac{\theta_{11}(z,\tau)}{\eta(\tau)}
   }
 }
 </style>
-
-## Selected Themes
-
-### Elliptic Chern Character
-
-
-<!-- deploy refresh: formulas on research page -->

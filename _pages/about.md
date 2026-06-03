@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year PhD student working on index theory and QFT.
+I am currently a fifth-year Ph.D. student working on index theory and QFT.
 I am interested in:
 
-- Loop space geometry and Stolz conjecture;
+- Loop space geometry and the Stolz conjecture;
 - Higher geometric structures and quantization;
 - CFT and elliptic cohomology.
 
@@ -38,7 +38,7 @@ I am interested in:
 
 ## Short CV
 
-- **2022-present** Ph.D. Candidate, in Mathematics, National University of Singapore.
+- **2022-present** Ph.D. candidate in Mathematics, National University of Singapore.
 - **2018-2022** B.Sc. in Mathematics and Applied Mathematics, Nanjing University.
 <style>
 .post-header {
