@@ -16,3 +16,4 @@ nav_order: 4
 
 - **2026/01-2026/03** Rutgers University, United States
 - **2026/04 Elliptic objects, von Neumann algebras, and Functorial Field Theory**, TianYuan Mathematics Research Center, Kunming, China
+- **2025/08/04-2025/08/08** The 4th Australia-China-Japan-Singapore-US Index Theory Conference: Analysis and Geometry on Manifolds
