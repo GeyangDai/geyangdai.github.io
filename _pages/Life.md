@@ -3,7 +3,7 @@ layout: page
 permalink: /life/
 title: 我的生活
 description: 生活、旅行与随笔
-nav: true
+nav: false
 nav_order: 6
 ---
 

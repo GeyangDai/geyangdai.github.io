@@ -45,47 +45,7 @@ I am interested in:
 
 {% include selected_papers.liquid %}
 <style>
-.post-header {
-  position: relative;
-  padding-right: min(32vw, 220px);
-}
-
 .post-title {
   font-weight: 700;
-}
-
-.post-header::after {
-  content: "中文签名";
-  position: absolute;
-  top: 0.1rem;
-  right: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: min(28vw, 190px);
-  height: 76px;
-  border: 1.5px dashed var(--global-text-color-light, #777);
-  border-radius: 14px;
-  background-color: var(--global-card-bg-color, rgba(255, 255, 255, 0.72));
-  background-image: url("/assets/img/chinese_signature.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-  color: var(--global-text-color-light, #777);
-  font-size: 0.9rem;
-  letter-spacing: 0.08em;
-}
-
-@media (max-width: 575px) {
-  .post-header {
-    padding-right: 0;
-  }
-
-  .post-header::after {
-    position: static;
-    width: 180px;
-    height: 64px;
-    margin-top: 0.7rem;
-  }
 }
 </style>
