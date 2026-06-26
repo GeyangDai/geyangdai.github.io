@@ -1,4 +1,2 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://geyangdai.github.io/sitemap.xml
+Disallow: /
